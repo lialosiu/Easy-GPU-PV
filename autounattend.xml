@@ -216,7 +216,7 @@
           <Description>Password Never Expires</Description>
         </SynchronousCommand>
       </FirstLogonCommands>
-      <TimeZone>GTB Standard Time</TimeZone>
+      <TimeZone>China Standard Time</TimeZone>
     </component>
   </settings>
 </unattend>
