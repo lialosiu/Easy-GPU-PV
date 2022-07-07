@@ -1,3 +1,12 @@
+
+## Fork 修改说明
+
+- 语言区域从 en-AU 改为 zh-CN
+- 网络通断测试从 google.com 改为 www.msftconnecttest.com
+- 时区从 GTB Standard Time 改为 China Standard Time
+
+---
+
 # Easy-GPU-PV
 A work-in-progress project dedicated to making GPU Paravirtualization on Windows Hyper-V easier!  
 
